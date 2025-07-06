@@ -13,6 +13,6 @@
 
 🔧 Tech I like working with:
 
-`python` `svelte` `tailwind` `c++` `docker` `fastapi`
+`python` `java` `tailwind` `c++` `docker` `fastapi`
 
 Reach me on [linkedin](https://www.linkedin.com/in/liam-bozarth/) – always down to chat!
