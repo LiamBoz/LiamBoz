@@ -12,7 +12,6 @@
 - managing engineering teams that actually ship things™
 
 🔧 tech i like working with:
-
 `python` `svelte` `tailwind` `c++` `docker` `fastapi`
 
 🤖 i’m especially into:
