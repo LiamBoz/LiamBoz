@@ -6,11 +6,6 @@
 - [ufcsu.org](https://ufcsu.org) – helping shape the future of computing @ UF
 - [ufclubs.com](https://ufclubs.com) – making it easier to explore and manage student orgs
 
-🧠 Ask me about:
-- arch linux (btw)
-- robotics & computer vision
-- managing engineering teams that actually ship things™
-
 🔧 Tech I like working with:
 
 `python` `java` `tailwind` `c++` `docker` `fastapi`
